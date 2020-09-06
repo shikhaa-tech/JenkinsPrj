@@ -1,0 +1,38 @@
+What is Continuous Integration?
+Continuous Integration is a development practice in which the developer
+s are required to commit changes to the source code in a shared repository
+ several times a day or more frequently. Every commit made in the repository
+  is then built. This allows the teams to detect the problems early. 
+  Apart from this, depending on the Continuous Integration tool,
+   there are several other functions like deploying the build application
+    on the test server,providing the concerned teams with the build and test results, etc.
+    
+Continuous Integration is abbreviated as CI. 
+Continuous Integration is a development practice 
+which aims to make sure the correctness of a software.
+ After each commit, a suite of tests run automatically
+  and tests a software to ensure whether the software
+   is running without any breaks. If any test fails, we will
+    get immediate feedback say “build is broken”.
+In simple words, continuous integration is a process of verifying 
+the correctness of a software.
+
+What is GIT
+Git is the most widely used modern version control system
+ in the world today for tracking changes in any set of files.
+  Git is an open source project. It is aimed at speed, data integrity,
+   and support for distributed, non-linear workflows.
+    It allows you to commit your work locally and then sync your
+     copy of the repository with the copy on the server.
+     
+What is Jenkins
+Jenkins is an open source automation server. 
+It supports us to automate all sorts of tasks related to building,
+ deploying and automating any project. 
+ It is cross-platform and can be used on Windows, Mac OS, Linux etc.,
+  As a part of Selenium, we use it to build and test our software continuously.
+   It is used for automatic test executions and scheduled builds. 
+   Using Jenkins we could also publish results and send email notifications
+    to all the team members.
+ Jenkins provides continuous
+     integration and continuous delivery service for software development

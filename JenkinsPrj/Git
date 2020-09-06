@@ -1,0 +1,27 @@
+
+1.Open https://github.com/
+2.Create account
+3.verify email
+4.create repository
+5.copy http from clicking code by choosing http
+git@github.com:mmishra0507/MvnGitProject.git
+
+
+connection with eclipse and git
+1.open perspective select java 
+2.select project then right click and select team and share project
+3.then open eclipse and click on open perspective and select git and click on clone a git repository option
+4.select repository then select finish
+5.source git repository opens
+6.select https a
+6.select https as protocol
+7.user and password of github enter
+8.then select store in secure store checkbox and next and next
+9.finish
+
+now to send rest code to github
+1.select openperspective select git
+then select git staging and drag all unstaged to staged and msg in commit msg
+2.author and email used in github and comitter same
+click push and commit
+3.then done

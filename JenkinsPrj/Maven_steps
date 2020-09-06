@@ -1,0 +1,8 @@
+https://maven.apache.org/surefire/maven-surefire-plugin/examples/testng.html
+Maven installation
+1 https://maven.apache.org/download.cgi
+2 download Binary zip archive from link column
+3 copy file to c:\programfiles and extract the zip folder 
+4 then set environment variables
+5 open cmd prompt
+6 type mvn -version
