@@ -17,7 +17,7 @@ public class NewTest {
 				w.get("https://www.google.com/");
 				System.out.println("Google opened.....");
 				w.quit();
-				System.out.println("browser closed.....");
+				System.out.println(".....");
 	}
 
 }
